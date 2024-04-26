@@ -10,7 +10,9 @@ nav{
 justify-content: space-between;
 }
 
-
+h1{
+    width: 2.5vw;
+}
 .logo{
     display: inline-flex;
     margin-top: 5px;
@@ -26,7 +28,7 @@ height: 100%;
     padding-top: 5px;
     padding-right: 5px;
     align-items: center;
-    font-size: 11px;
+    font-size: 2.3vw;
     list-style-type: none;
    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     display: inline-flex;
