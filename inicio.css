@@ -13,10 +13,10 @@ body{
 .form{
     background-color: #fff;
     margin: auto ;
-    width: 50%;
+    width: 90%;
     
     max-width: 400px;
-    padding: 2.5em 2em;
+    padding: 3.5em 3em;
     border-radius:10px ;
     text-align: center;
 }
